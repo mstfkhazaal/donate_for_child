@@ -431,7 +431,7 @@ a.btn-yellow:hover,
 
 /* blockquote */
 .blockquote {
-  padding: 100px;
+  padding: 70px;
   background-color: var(--secondary-color);
   margin: 0;
 }
